@@ -1,5 +1,3 @@
-import math
-
 def InputData():
     
     sequence_len = int(input())
